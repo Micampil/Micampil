@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micampil&label=Profile%20views&color=0eb64f&style=for-the-badge" alt="micampil" /> </p>
 
 # 💫 About Me:
-<br>- 🔭 I’m currently studying **Cybersecurity** at [Tokio School](https://www.tokioschool.com/)<br><br>- 🌱 I’m always developing new solutions<br><br>- 📝 My personal website is [https://mikzbots.dev](https://mikzbots.dev)<br><br>- 📫 How to reach me **mikz@mikzbots.xyz**
+<br>- 🔭 I’m currently studying **Cybersecurity** at [Tokio School](https://www.tokioschool.com/)<br><br>- 🌱 I’m always developing new solutions<br><br>- 📝 My personal website is [https://mikzbots.dev](https://mikzbots.dev)<br><br>- 📫 How to reach me **mikz@mikzbots.dev**
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikzsolutions) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikz@mikzbots.xyz)[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MikzG)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikzsolutions) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikz@mikzbots.dev)[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MikzG)
 
 
 
