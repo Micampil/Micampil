@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=micampil&label=Profile%20views&color=0eb64f&style=for-the-badge" alt="micampil" /> </p>
 
 # 💫 About Me:
-<br>- 🔭 I’m currently studying on [42 Lisbon](http://42lisboa.com/)<br><br>- 🌱 I’m currently learning **C**<br><br>- 📝 My personal website is [https://mikzbots.xyz](https://mikzbots.xyz)<br><br>- 📫 How to reach me **mikz@mikzbots.xyz**
+<br>- 🔭 I’m currently studying **Cybersecurity** at [Tokio School](https://www.tokioschool.com/)<br><br>- 🌱 I’m always developing new solutions<br><br>- 📝 My personal website is [https://mikzbots.dev](https://mikzbots.dev)<br><br>- 📫 How to reach me **mikz@mikzbots.xyz**
 
 
 ## 🌐 Socials:
